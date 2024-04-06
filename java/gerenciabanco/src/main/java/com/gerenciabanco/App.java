@@ -1,9 +1,14 @@
 package com.gerenciabanco;
 
 /**
- * Hello world!
- *
+ * Construa a aplicação em um único arquivo do tipo java main Class. Isso porque o método principal, que é chamado pela maquina virtual, deve estar nesse mesmo arquivo. No seu código você deverá construir, basicamente:
+        a) a classe principal
+        b) classe para para dados pessoais e operações bancárias
+        c) método para exibição do menu.
+ * Aplicação de gerencia de banco com procedimentos básicos como informação de usuário(nome, sobrenome e CPF), e procedimentos bancários como consulta de saldo, depósitoeretiradaeinterrupção da execução do código, contendo uma mensagem de despedida.
+ * Meu primeiro código em Java!
  */
+
 public class App 
 {
     public static void main( String[] args )
